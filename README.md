@@ -1,1 +1,3 @@
 # DPRL
+
+VU DPRL course
