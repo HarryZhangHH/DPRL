@@ -1,3 +1,3 @@
-# DPRL
+# Dynamic Programming and Reinforcement Learning
 
-VU DPRL course
+VU DPRL course assignment
